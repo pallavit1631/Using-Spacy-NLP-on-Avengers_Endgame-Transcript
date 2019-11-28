@@ -12,3 +12,9 @@ Top verbs and nouns spoke by a particular character.
 Top named entities from the film.
 
 The similarity between the spoken lines of each character pair, e.g., the similarity between Thor’s and Thanos’ lines
+
+
+The Cinema filder consists of the cinema.py file which is used to scrape the Transcript of Avengers Endgame.
+
+
+Cinema->Cinema->Spiders->  consists of the scraped data and Avengers_Endgame.ipynb file which gives the result of our objectives
